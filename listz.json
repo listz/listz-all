@@ -5,5 +5,14 @@
   "image" : "The URL of the image that will represent your Listz.",
 
   "items" : [
+    {
+      "name" : "Javascript Frontend Frameworks",
+      "description" : "A collection of Javascript Frontend Frameworks.",
+      "image" : "https://listz.github.io/listz-all/media/javascript.png",
+      "link" : "https://listz.github.io/listz-app/?listz=listz-js-frontend",
+      "tags" : [
+        "javascript", "frontend", "framework", "js"
+      ]
+    }
   ]
 }
