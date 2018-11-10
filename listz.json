@@ -22,6 +22,15 @@
       "tags" : [
         "javascript", "backend", "framework", "js"
       ]
+    },
+    {
+      "name" : "Java Backend Frameworks",
+      "description" : "A collection of Java Backend Frameworks.",
+      "image" : "https://listz.github.io/listz-all/media/java.png",
+      "link" : "https://listz.github.io/listz-app/?listz=java-backend",
+      "tags" : [
+        "java", "backend", "framework"
+      ]
     }
   ]
 }
