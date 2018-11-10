@@ -9,9 +9,18 @@
       "name" : "Javascript Frontend Frameworks",
       "description" : "A collection of Javascript Frontend Frameworks.",
       "image" : "https://listz.github.io/listz-all/media/javascript.png",
-      "link" : "https://listz.github.io/listz-app/?listz=listz-js-frontend",
+      "link" : "https://listz.github.io/listz-app/?listz=js-frontend",
       "tags" : [
         "javascript", "frontend", "framework", "js"
+      ]
+    },
+    {
+      "name" : "Javascript Backend Frameworks",
+      "description" : "A collection of Javascript Backend Frameworks.",
+      "image" : "https://listz.github.io/listz-all/media/javascript.png",
+      "link" : "https://listz.github.io/listz-app/?listz=js-backend",
+      "tags" : [
+        "javascript", "backend", "framework", "js"
       ]
     }
   ]
