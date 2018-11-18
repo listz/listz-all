@@ -1,35 +1,53 @@
 {
-  "version" : "1",
-  "name" : "The Listz of Listz.",
-  "description" : "This Listz is a collection of all the other Listz. Use this one to search which topics are already covered by other Listz.",
-  "image" : "The URL of the image that will represent your Listz.",
-
-  "items" : [
+  "version": "1",
+  "name": "The Listz of Listz.",
+  "description": "This Listz is a collection of all the other Listz. Use this one to search which topics are already covered by other Listz.",
+  "image": "The URL of the image that will represent your Listz.",
+  "items": [
     {
-      "name" : "Javascript Frontend Frameworks",
-      "description" : "A collection of Javascript Frontend Frameworks.",
-      "image" : "https://listz.github.io/listz-all/media/javascript.png",
-      "link" : "https://listz.github.io/listz-app/?listz=listz-js-frontend",
-      "tags" : [
-        "javascript", "frontend", "framework", "js"
+      "name": "Javascript Frontend Frameworks",
+      "description": "A collection of Javascript Frontend Frameworks.",
+      "image": "https://listz.github.io/listz-all/media/javascript.png",
+      "link": "https://listz.github.io/listz-app/?listz=listz-js-frontend",
+      "tags": [
+        "javascript",
+        "frontend",
+        "framework",
+        "js"
       ]
     },
     {
-      "name" : "Javascript Backend Frameworks",
-      "description" : "A collection of Javascript Backend Frameworks.",
-      "image" : "https://listz.github.io/listz-all/media/javascript.png",
-      "link" : "https://listz.github.io/listz-app/?listz=js-backend",
-      "tags" : [
-        "javascript", "backend", "framework", "js"
+      "name": "Javascript Backend Frameworks",
+      "description": "A collection of Javascript Backend Frameworks.",
+      "image": "https://listz.github.io/listz-all/media/javascript.png",
+      "link": "https://listz.github.io/listz-app/?listz=js-backend",
+      "tags": [
+        "javascript",
+        "backend",
+        "framework",
+        "js"
       ]
     },
     {
-      "name" : "Java Backend Frameworks",
-      "description" : "A collection of Java Backend Frameworks.",
-      "image" : "https://listz.github.io/listz-all/media/java.png",
-      "link" : "https://listz.github.io/listz-app/?listz=java-backend",
-      "tags" : [
-        "java", "backend", "framework"
+      "name": "Java Backend Frameworks",
+      "description": "A collection of Java Backend Frameworks.",
+      "image": "https://listz.github.io/listz-all/media/java.png",
+      "link": "https://listz.github.io/listz-app/?listz=java-backend",
+      "tags": [
+        "java",
+        "backend",
+        "framework"
+      ]
+    },
+    {
+      "name": "CSS frameworks",
+      "description": "A collection of CSS Frameworks.",
+      "image": "https://listz.github.io/listz-all/media/css.png",
+      "link": "https://listz.github.io/listz-app/?listz=css-frameworks",
+      "tags": [
+        "css",
+        "layout",
+        "web design"
       ]
     }
   ]
